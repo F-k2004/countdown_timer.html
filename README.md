@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>⏳ شمارش معکوس</title>
   <style>
-    ody {
+    body {
       font-family: sans-serif;
       display: flex;
       flex-direction: column;
